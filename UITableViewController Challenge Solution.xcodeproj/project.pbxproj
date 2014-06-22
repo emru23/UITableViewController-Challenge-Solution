@@ -115,10 +115,10 @@
 				26EFB24619573A0F00A14653 /* CSAppDelegate.h */,
 				26EFB24719573A0F00A14653 /* CSAppDelegate.m */,
 				26EFB24919573A0F00A14653 /* Main.storyboard */,
-				26EFB24F19573A0F00A14653 /* Images.xcassets */,
-				26EFB23E19573A0E00A14653 /* Supporting Files */,
 				26EFB26C19573A4800A14653 /* TableViewController Test.h */,
 				26EFB26D19573A4800A14653 /* TableViewController Test.m */,
+				26EFB24F19573A0F00A14653 /* Images.xcassets */,
+				26EFB23E19573A0E00A14653 /* Supporting Files */,
 			);
 			path = "UITableViewController Challenge Solution";
 			sourceTree = "<group>";
